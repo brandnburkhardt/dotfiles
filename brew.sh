@@ -46,13 +46,29 @@ brew install homebrew/dupes/screen
 brew tap caskroom/cask
 
 # Core cask installs
-brew cask install 1password
+# brew cask install 1password
+brew cask install alfred
+brew cask install amazon-music
+brew cask install audio-hijack
 brew cask install caffeine
-brew cask install duet
-brew cask install evernote
+brew cask install calibre
+brew cask install discord
+brew cask install disk-inventory-x
+# brew cask install duet
+# brew cask install evernote
+brew cask install fission
+brew cask install gog-galaxy
 brew cask install google-chrome
+brew cask install mkvtoolnix
+brew cask install openemu
+# brew cask install plex -- not sure which cask
+brew cask install private-internet-access
+brew cask install qbittorrent
+brew cask install simple-comic
 brew cask install slack
-brew cask install spotify
+brew cask install steam
+# brew cask install spotify
+brew cask install tor-browser
 brew cask install the-unarchiver
 brew cask install vlc
 
